@@ -1,0 +1,23 @@
+建立Migration的Script
+從root cd db -> sql-migrate new __action__table__
+完成之後 -> sql-migrate up
+
+把govalidator降回舊版 20190424111038-f61b66f89f4a
+
+
+--------------------------------------------------
+
+config / config.yml 為 gorm 操作db 所吃的
+db / dbconfig.yml 為 migrate吃的
+
+go module : module 通常會包為 github.com/user_account/package_name 好讓外部使用者import
+github.com/user_account/package_name 則為此根目錄
+在同專案中，若要import其他檔案，則必須使用module path/xxx  (eg. import "github.com/robin019/bookmark/src/route")
+
+
+
+-------------------------------------------------
+
+從 ctx iris.Context拿進來的值照慣例寫為string
+
+QueryModel 中的變數才有特定型態 int string ...

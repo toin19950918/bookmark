@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d53093-d9f2-4d01-8000-af2f067919fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/persistance/gorm/bookmarkDao/bookmarkDao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/bookmarkController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/bookmarkService.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/dbconfig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/db/dbconfig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistance/gorm/userDao/userDao.go" beforeDir="false" afterPath="$PROJECT_DIR$/persistance/gorm/userDao/userDao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assembler/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/assembler/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/baseController.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/baseController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/userController.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/userController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/corsMiddleware.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/corsMiddleware.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/route/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/userService.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/userService.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../go/go1.14.1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aIR5HPmnYGU787FC1k9cDCUMBg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/controller" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <auto-vendoring-mode>false</auto-vendoring-mode>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2373" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586487774316">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2373" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586487774316" />
+    <state x="559" y="321" width="791" height="452" key="EditFileWatcherDialog" timestamp="1586421030159">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="559" y="321" width="791" height="452" key="EditFileWatcherDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1586421030159" />
+    <state x="2663" y="281" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586487771906">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="301" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1586422399084" />
+    <state x="2663" y="281" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586487771906" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1586422406200">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1586422406200" />
+    <state x="42" y="27" width="1341" height="730" key="dock-window-1" timestamp="1586490742803">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1990" y="27" width="1554" height="1036" maximized="true" key="dock-window-1/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1586422786154" />
+    <state x="42" y="27" width="1341" height="730" key="dock-window-1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586490742803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../桌面/testy/test.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

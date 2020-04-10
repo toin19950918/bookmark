@@ -1,0 +1,5 @@
+development:
+    dialect: mysql
+    datasource: root:@tcp(127.0.0.1:3306)/new_bookmark?parseTime=true
+    dir: ./migrations
+    table: migrations_bookmark
